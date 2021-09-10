@@ -23,7 +23,7 @@ In order to complete this project, you must know how to lay out the structure of
 
 ## Setup
 
-To view the final output, click [here](https://daniellabrador.github.io/codecademy-task_board/).
+To view the final output, click [here](https://daniellabrador.github.io/codecademy-fs-task_board/).
 
 ## Sources
 
